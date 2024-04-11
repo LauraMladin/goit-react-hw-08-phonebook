@@ -10,16 +10,16 @@ export const Footer = () => {
       <Container>
         <FooterBox>
           <nav>
-            <SocialLink target="_blank" href="https://github.com/NataliaLyfar" rel="noreferrer">
+            <SocialLink target="_blank" href="" rel="noreferrer">
               <VscGithubInverted />
             </SocialLink>
-            <SocialLink target="_blank" href="https://www.facebook.com/profile.php?id=100011017650191" rel="noreferrer">
+            <SocialLink target="_blank" href="" rel="noreferrer">
               <BsFacebook />
             </SocialLink>
-            <SocialLink target="_blank" href="https://www.instagram.com/lyfarnatalia_373/" rel="noreferrer">
+            <SocialLink target="_blank" href="" rel="noreferrer">
               <BsInstagram />
             </SocialLink>
-            <SocialLink target="_blank" href="https://www.linkedin.com/in/nataliia-lyfar/" rel="noreferrer">
+            <SocialLink target="_blank" href="" rel="noreferrer">
               <BsLinkedin />
             </SocialLink>
           </nav>
