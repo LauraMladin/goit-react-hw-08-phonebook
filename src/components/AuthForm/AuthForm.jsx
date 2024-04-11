@@ -75,5 +75,5 @@ export const AuthForm = ({onSubmit, type, register = false}) => {
     </Formik>
   );
 };
-
+//** */
 
